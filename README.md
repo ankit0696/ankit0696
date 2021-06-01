@@ -21,3 +21,4 @@ I'm a Web Developer [Portfolio](https://ankitdev.netlify.app/)
 - 💅 Designed: [NinjaFood](https://ninjas-food.netlify.app/),
 - 📫 Reach me: [ankitkr0696@gmail.com](ankitkr0696@gmail.com)
 - 🌱 Currently learning: All about Progressive Web Apps(PWA) and Workbox
+- 💬 Ping me about **design**,**development**, **design thinking**, **branding**
