@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 I'm a Web Developer [Portfolio](https://ankitdev.netlify.app/)
 
-I use daily: `Node`,`tailwindcss`
+#### BIO
+⚙️ I use daily: `Node`,`React`,`tailwindcss`
+📫 Reach me: [ankitkr0696@gmail.com](mailto: ankitkr0696@gmail.com)
