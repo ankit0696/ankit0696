@@ -18,4 +18,5 @@ I'm a Web Developer [Portfolio](https://ankitdev.netlify.app/)
 
 #### BIO
 ⚙️ I use daily: `Node`,`React`,`tailwindcss`
-📫 Reach me: [ankitkr0696@gmail.com](mailto: ankitkr0696@gmail.com)
+
+📫 Reach me: [ankitkr0696@gmail.com](ankitkr0696@gmail.com)
