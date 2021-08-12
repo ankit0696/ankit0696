@@ -22,5 +22,5 @@ I'm a Web Developer [Portfolio](https://ankitdev.netlify.app/)
 - ⚙️ I use daily: `NextJs`,`Strapi`,`Node`,`React`,`tailwindcss`
 - 💅 Designed: **[NinjaFood](https://ninjas-food.netlify.app/), [Todos](https://mini-pro.netlify.app/todos/)**
 - 📫 Reach me: [ankitkr0696@gmail.com](ankitkr0696@gmail.com)
-- 🌱 Currently learning:BAsics of AI, ML, Blockchain.
+- 🌱 Currently learning: Basics of AI, ML, Blockchain.
 - 💬 Ping me about **design**,**development**, **design thinking**, **branding**
