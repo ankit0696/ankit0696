@@ -23,5 +23,5 @@ Arctic Code Vault Contributor
 - ⚙️ I use daily: `NextJs`,`Strapi`,`Node`,`React`,`tailwindcss`
 - 💅 Designed: **[NinjaFood](https://ninjas-food.netlify.app/), [Todos](https://mini-pro.netlify.app/todos/)**
 - 📫 Reach me: [ankitkr0696@gmail.com](ankitkr0696@gmail.com)
-- 🌱 Currently learning:  AI, ML, DataScience.
+- 🌱 Currently learning:  Dynamic Programming, AI, ML, DataScience.
 - 💬 Ping me about **design**,**development**, **design thinking**, **branding**
