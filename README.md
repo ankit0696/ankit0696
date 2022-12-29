@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 🌱 I’m currently pursuing M.Tech at [IIT Patna](https://www.iitp.ac.in/)
 
-I'm a Web Developer [Portfolio](https://ankitdev.netlify.app/)
+I'm a Web Developer [Portfolio](https://ankitiitpatna.vercel.app/)
 
 Arctic Code Vault Contributor
 #### BIO
